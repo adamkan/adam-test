@@ -1,4 +1,3 @@
-cordova.define("com.testfairy.cordova-plugin.TestFairy", function(require, exports, module) { /*
 /*
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
@@ -144,4 +143,3 @@ TestFairy.prototype.resume = function ()
 
 
 module.exports = TestFairy;
-});
