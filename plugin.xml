@@ -28,8 +28,8 @@ version="3.1.0">
 </config-file>
 
 <header-file src="src/ios/TestFairy.h" />
-<header-file src="src/ios/CDVTestFlight.h"/>
-<source-file src="src/ios/CDVTestFlight.m" />
+<header-file src="src/ios/CDVTestFairy.h"/>
+<source-file src="src/ios/CDVTestFairy.m" />
 <source-file src="src/ios/libTestFairy.a" framework="true"/>
 
 <framework src="CoreMedia.framework" />
